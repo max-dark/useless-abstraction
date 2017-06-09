@@ -32,9 +32,4 @@ interface Model
      * @return string name of storage for this model
      */
     public static function name();
-
-    /**
-     * @return int timestamp
-     */
-    public function createdAt();
 }
