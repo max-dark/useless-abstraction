@@ -3,7 +3,7 @@
   "description": "useless\\abstraction library",
   "homepage": "https://bitbucket.org/max_dark/useless-abstraction",
   "minimum-stability": "stable",
-  "version": "1.1-dev",
+  "version": "1.1",
   "license": "MIT",
   "authors": [
     {
