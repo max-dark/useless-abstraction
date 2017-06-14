@@ -1,9 +1,9 @@
 {
-  "name": "max_dark/useless-abstraction",
+  "name": "max-dark/useless-abstraction",
   "description": "useless\\abstraction library",
-  "homepage": "https://bitbucket.org/max_dark/useless-abstraction",
+  "homepage": "https://github.com/max-dark/useless-abstraction",
   "minimum-stability": "stable",
-  "version": "1.1",
+  "version": "1.1.1",
   "license": "MIT",
   "authors": [
     {
